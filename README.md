@@ -1,6 +1,6 @@
 # Spoopy
 
-A playful theme for [Ghost](http://github.com/tryghost/ghost/) blogs.
+A slightly less friendly theme for [Ghost](http://github.com/tryghost/ghost/) blogs.
 
 ## Copyright & License
 

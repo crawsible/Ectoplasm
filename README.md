@@ -1,4 +1,4 @@
-# Spoopy
+# Ectoplasm
 
 A slightly less friendly theme for [Ghost](http://github.com/tryghost/ghost/) blogs.
 

@@ -4,8 +4,6 @@ A slightly less friendly theme for [Ghost](http://github.com/tryghost/ghost/) bl
 
 ![Theme screenshot](assets/images/ectoplasm.png)
 
-It's live [here](http://www.studentific.com).
-
 ## How to install
 
 1. Click [here](https://github.com/colinjackson/Ectoplasm/archive/master.zip) to download a zip file of this repository.
